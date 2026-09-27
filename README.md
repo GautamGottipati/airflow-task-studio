@@ -4,6 +4,8 @@
 
 Airflow Task Studio is an Apache Airflow 3.1 plugin that gives operators a UI for inspecting opted-in tasks and safely overriding selected task arguments for the **next successful run**.
 
+🎥 [Demo video](https://youtu.be/8x6Pi27BP7Y)
+
 The project is currently a **hackathon / functional prototype**, not a production-ready control plane. See [Production Readiness](#production-readiness) for known limitations.
 
 ## What Task Studio Does
